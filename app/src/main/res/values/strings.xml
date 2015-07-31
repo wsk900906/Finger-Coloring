@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FillColor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loadmore">加载更多</string>
+    <string name="grabdata">读取数据中...</string>
+    <string name="loadpicture">载入模板中</string>
+    <string name="loadpicturefailed">加载模板失败请重试</string>
+
+    <string-array name="themeName">
+        <item>阿拉丁</item>
+        <item>海底总动员</item>
+        <item>数码宝贝</item>
+    </string-array>
+</resources>
