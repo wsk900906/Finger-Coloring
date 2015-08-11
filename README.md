@@ -1,10 +1,10 @@
 # FillColor
 
-Update at 11 Aug 2015:
-软件上架了，目前在百度市场，腾讯应用宝，360市场，豌豆荚等市场都已经审核通过。
-App Name:手指填图-秘密花园
-优化了填图代码，目前下载量很不错！
-准备继续深入做下去，做成游戏社交类APP，已经有人加入一起搞了，有人想一起来发展这个的联系我Q:469526674。
+Update at 11 Aug 2015:</br></br>
+软件上架了，目前在百度市场，腾讯应用宝，360市场，豌豆荚等市场都已经审核通过。</br>
+App Name:手指填图-秘密花园</br>
+优化了填图代码，目前下载量很不错！</br>
+准备继续深入做下去，做成游戏社交类APP，已经有人加入一起搞了，有人想一起来发展这个的联系我Q:469526674。</br>
 
 use @鸿洋 ColourImageView(https://github.com/hongyangAndroid/ColorImageView THANK YOU!) </br>
 and image resources in this website: http://www.coloring-book.info</br>
